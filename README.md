@@ -53,6 +53,6 @@ MIT
 
 | Name | Role |
 |------|------|
-| Fattah | |
+| Fattah |created website |
 | Syarif |UI Designer|
 | Kimi |Repository & Documentation Management|
