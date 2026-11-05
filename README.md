@@ -1,53 +1,11 @@
 # Night Market
 
-A Laravel web application.
+A Laravel web application. Made for reviewing foods with cheaper price.
 
-## Run after cloning
-
-1. Install PHP dependencies:
-
-```bash
-composer install
-```
-
-2. Create environment file and generate app key:
-
-```bash
-cp .env.example .env
-php artisan key:generate
-```
-
-3. Create the SQLite database and run migrations:
-
-```bash
-touch database/database.sqlite
-php artisan migrate --force
-```
-
-4. Install JS dependencies and build assets:
-
-```bash
-npm install --ignore-scripts
-npm run build
-```
-
-5. Start the app (server, queue, Vite):
-
-```bash
-composer dev
-```
-
-The app will be available at http://127.0.0.1:8000.
-
-## Testing
-
-```bash
-composer test
-```
-
-## License
-
-MIT
+*INTRODUCTION*
+Abdul Fattah Hafizullah Bin Azaharin 26FTT1106
+Mohamad Syarifuddin Shah Bin Sharil 26FTT1101
+Luqman Hakimi Bin Shaifol 26FTT2021
 
 ## Team
 
@@ -56,3 +14,8 @@ MIT
 | Fattah |created website |
 | Syarif |UI Designer|
 | Kimi |Repository & Documentation Management|
+
+*SELF REFLECTION*
+Fattah : it's hard to make the website but i manage to do it with the help of ai and my friends. Reviewing PR is a bit confusing but manage to do it.
+Arif : confuse on how to do pr and accepting other pr
+Kimi : stuck on merging
